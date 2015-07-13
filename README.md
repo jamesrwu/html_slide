@@ -3,12 +3,17 @@ A simple HTML Picture slideshow generator
 
 I couldn't find something similar that fit my needs online, so I made my own.
 
+This is also a personal exercise in order to get more familiar with jquery/javascript/building webpages.
+
 The benefits of an HTML picture slideshow running on a local machine are as follows:
 
 * I No need for uploading to external service
 * Can easily generate playlist from a folder of pictures
 * Can easily chromecast to a TV.
 
+### To do
+* Add navigation pop up bar to pause/play/rewind/forward slides.
+* Skip to slide #
 
 ### How to use
 Once you've pulled the repo, you need to generate a list of pictures to play in the pics directory.
