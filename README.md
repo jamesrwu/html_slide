@@ -14,6 +14,7 @@ The benefits of an HTML picture slideshow running on a local machine are as foll
 ### To do
 * Add navigation pop up bar to pause/play/rewind/forward slides.
 * Skip to slide #
+* Make responsive?
 
 ### How to use
 Once you've pulled the repo, you need to generate a list of pictures to play in the pics directory.
