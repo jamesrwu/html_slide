@@ -7,7 +7,7 @@ This is also a personal exercise in order to get more familiar with jquery/javas
 
 The benefits of an HTML picture slideshow running on a local machine are as follows:
 
-* I No need for uploading to external service
+* No need for uploading to external service
 * Can easily generate playlist from a folder of pictures
 * Can easily chromecast to a TV.
 
