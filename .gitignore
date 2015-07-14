@@ -1,4 +1,4 @@
 *.JPG
 *.jpg
 .idea/*
-pics/playlist.js
+playlist/playlist.js
